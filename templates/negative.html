@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breast Cancer Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='negative.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="result-box">
+            <h1 class="status">No Breast Cancer Predicted</h1>
+            <p class="message">Based on the analysis, no signs of breast cancer were detected. However, if you are still in doubt or have concerns, please consult your doctor for a comprehensive examination.</p>
+            <button onclick="window.location.href='http://127.0.0.1:5000'" class="consult-button">Predict Again</button>
+        </div>
+    </div>
+</body>
+</html>
