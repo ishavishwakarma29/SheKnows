@@ -45,11 +45,12 @@ Open a web browser and navigate to: http://127.0.0.1:5000
 
 ## Screenshots
 # Home page
-<img width="154" alt="alt1" src="https://drive.google.com/file/d/1MVBs7rBcuAILs_5lHOoVEiMkLXmqXsXd/view?usp=sharing">
+![Screenshot (1094)](https://github.com/user-attachments/assets/5b7e0882-fa3a-45f7-aa69-de6ba547439c)
 
 # Result pages
-<img width="154" alt="alt2" src="https://drive.google.com/file/d/1iweMJr4I8w0snMpmSdbVvpXla1GKUgj8/view?usp=drive_link">
-<img width="154" alt="alt3" src="https://drive.google.com/file/d/1EwAl204K-UYlKY3OZYz0QGl_QlfmBYRX/view?usp=drive_link">
+![Screenshot (1095)](https://github.com/user-attachments/assets/8af6e407-431b-4576-ab80-4baf18948fae)
+
+![Screenshot (1096)](https://github.com/user-attachments/assets/4c1f69c4-b706-4664-9588-753f87fca6b7)
 
 ## Contributed by-:
  ![Alt_text](https://github.com/ishavishwwakarma29)
