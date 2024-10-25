@@ -16,7 +16,7 @@ SheKnows is a web-based application that integrates a **front-end interface** wi
 - Flask (for backend integration)
 - Jupyter Notebook (for model development)
 - Libraries:
-  - `scikit-lear`
+  - `scikit-learn`
   - `pandas`
   - `numpy`
   - `tensorflow`
