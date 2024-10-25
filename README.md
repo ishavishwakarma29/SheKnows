@@ -53,6 +53,6 @@ Open a web browser and navigate to: http://127.0.0.1:5000
 ![Screenshot (1096)](https://github.com/user-attachments/assets/4c1f69c4-b706-4664-9588-753f87fca6b7)
 
 ## Contributed by-:
- ![Alt_text](https://github.com/ishavishwwakarma29)
+ [Isha Vishwakarma](https://github.com/ishavishwakarma29)
 
 
