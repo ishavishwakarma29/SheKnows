@@ -43,5 +43,13 @@ SheKnows is a web-based application that integrates a **front-end interface** wi
 5. **Access the application:**
 Open a web browser and navigate to: http://127.0.0.1:5000
 
+---
+##Screenshots
+#Home page
+![Alt text](https://drive.google.com/file/d/1MVBs7rBcuAILs_5lHOoVEiMkLXmqXsXd/view?usp=sharing)
+
+#Result pages
+![Alt text](https://drive.google.com/file/d/1iweMJr4I8w0snMpmSdbVvpXla1GKUgj8/view?usp=drive_link)
+![Alt text](https://drive.google.com/file/d/1EwAl204K-UYlKY3OZYz0QGl_QlfmBYRX/view?usp=drive_link)
 
 
